@@ -1,7 +1,5 @@
 // A user script that lets you download ChatGPT conversations as LaTeX files.
 
-// Note:
-// This code was mostly written by GPT-4.
 
 // Usage:
 // 1. Copy and paste this code into the console.
